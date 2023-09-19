@@ -1,5 +1,5 @@
 package com.redbugne.models;
 
-public class Cliente {
+public class CarrinhoCompraModel {
     
 }

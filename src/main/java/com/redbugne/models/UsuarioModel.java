@@ -1,5 +1,5 @@
 package com.redbugne.models;
 
-public class Estoque {
+public class UsuarioModel {
     
 }
